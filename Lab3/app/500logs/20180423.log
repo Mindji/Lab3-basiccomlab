@@ -1,0 +1,50 @@
+[Mon, 23 Apr 18 15:56:17 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 15:56:31 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 15:56:41 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:04:35 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:18:03 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:22:14 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:25:31 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:26:58 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:34:10 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:34:11 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:34:12 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:34:12 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:34:13 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:34:16 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`Picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:39:37 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`events`.`picture' at line 1
+
+[Mon, 23 Apr 18 16:40:27 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`events`.`Picture' at line 1
+
+[Mon, 23 Apr 18 16:41:27 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:42:04 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:42:32 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:42:46 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`Name`, `events`.`Date`, `events`.`Detail`, `events`.`picture` FROM `e' at line 1
+
+[Mon, 23 Apr 18 16:45:31 +0700][ERROR] [42000]: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `events`.`name`, `events`.`date`, `events`.`details`, `events`.`picture` FROM `' at line 1
+
+[Mon, 23 Apr 18 17:16:33 +0700][ERROR] [23000]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'details' cannot be null
+
+[Mon, 23 Apr 18 17:26:13 +0700][ERROR] [23000]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'details' cannot be null
+
+[Mon, 23 Apr 18 17:36:50 +0700][ERROR] [23000]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'details' cannot be null
+
+[Mon, 23 Apr 18 17:43:24 +0700][ERROR] [23000]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'details' cannot be null
+
